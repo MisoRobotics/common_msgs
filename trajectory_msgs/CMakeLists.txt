@@ -10,6 +10,8 @@ add_message_files(
   JointTrajectoryPoint.msg
   MultiDOFJointTrajectory.msg
   MultiDOFJointTrajectoryPoint.msg
+  PoseTrajectory.msg
+  PoseTrajectoryPoint.msg
   )
 
 generate_messages(DEPENDENCIES std_msgs geometry_msgs)

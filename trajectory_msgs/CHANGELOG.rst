@@ -2,6 +2,14 @@
 Changelog for package trajectory_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#1 <https://github.com/MisoRobotics/common_msgs/issues/1>`_ from MisoRobotics/jade-devel
+  Bumping version by a lot to replace the default ros trajectory msg
+* Bumping version by a lot to replace the default ros trajectory msg
+* Adding PoseTrajectory and PoseTrajectoryPoint messages.
+* Contributors: Nikita Kosolobov, Ryan Sinnet
+
 1.12.5 (2016-09-30)
 -------------------
 * Fix spelling mistakes

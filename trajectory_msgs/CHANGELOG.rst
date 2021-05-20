@@ -2,8 +2,8 @@
 Changelog for package trajectory_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+11.0.1 (2021-05-20)
+-------------------
 * Merge pull request `#6 <https://github.com/MisoRobotics/common_msgs/issues/6>`_ from MisoRobotics/user/rsinnet/feature/update-cmake
   Update CMake minimum version to 3.5
 * Update CMake minimum version to 3.5

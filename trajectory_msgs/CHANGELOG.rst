@@ -2,6 +2,12 @@
 Changelog for package trajectory_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+11.0.2 (2022-03-25)
+-------------------
+* Merge pull request `#8 <https://github.com/MisoRobotics/common_msgs/issues/8>`_ from MisoRobotics/master
+  Merge master back into develop
+* Contributors: Ryan Sinnet
+
 11.0.1 (2021-05-20)
 -------------------
 * Merge pull request `#6 <https://github.com/MisoRobotics/common_msgs/issues/6>`_ from MisoRobotics/user/rsinnet/feature/update-cmake

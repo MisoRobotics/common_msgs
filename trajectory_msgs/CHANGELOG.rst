@@ -2,6 +2,12 @@
 Changelog for package trajectory_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#11 <https://github.com/MisoRobotics/common_msgs/issues/11>`_ from MisoRobotics/master
+  Backmerge master into develop for chippy-11.0.2
+* Contributors: Zach Zweig Vinegar
+
 11.0.2 (2022-03-25)
 -------------------
 * Merge pull request `#8 <https://github.com/MisoRobotics/common_msgs/issues/8>`_ from MisoRobotics/master

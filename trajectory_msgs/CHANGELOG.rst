@@ -2,6 +2,9 @@
 Changelog for package trajectory_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 11.1.0 (2025-09-18)
 -------------------
 * Merge pull request `#11 <https://github.com/MisoRobotics/common_msgs/issues/11>`_ from MisoRobotics/master
